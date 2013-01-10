@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" sourcepath="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/hectorclient/hector-core/1.1-2/hector-core-1.1-2.jar" sourcepath="M2_REPO/org/hectorclient/hector-core/1.1-2/hector-core-1.1-2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/hectorclient/hector-core/1.1-2/hector-core-1.1-2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.4/commons-lang-2.4.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-pool/commons-pool/1.5.3/commons-pool-1.5.3.jar" sourcepath="M2_REPO/commons-pool/commons-pool/1.5.3/commons-pool-1.5.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/commons-pool/commons-pool/1.5.3/commons-pool-1.5.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/cassandra/cassandra-thrift/1.1.0/cassandra-thrift-1.1.0.jar" sourcepath="M2_REPO/org/apache/cassandra/cassandra-thrift/1.1.0/cassandra-thrift-1.1.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/apache/cassandra/cassandra-thrift/1.1.0/cassandra-thrift-1.1.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/thrift/libthrift/0.7.0/libthrift-0.7.0.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/apache/thrift/libthrift/0.7.0/libthrift-0.7.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1.jar" sourcepath="M2_REPO/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar" sourcepath="M2_REPO/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.2/commons-codec-1.2.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/commons-codec/commons-codec/1.2/commons-codec-1.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/google/guava/guava/r09/guava-r09.jar" sourcepath="M2_REPO/com/google/guava/guava/r09/guava-r09-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/com/google/guava/guava/r09/guava-r09-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/github/stephenc/eaio-uuid/uuid/3.2.0/uuid-3.2.0.jar" sourcepath="M2_REPO/com/github/stephenc/eaio-uuid/uuid/3.2.0/uuid-3.2.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/com/github/stephenc/eaio-uuid/uuid/3.2.0/uuid-3.2.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/ecyrd/speed4j/speed4j/0.9/speed4j-0.9.jar" sourcepath="M2_REPO/com/ecyrd/speed4j/speed4j/0.9/speed4j-0.9-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/com/ecyrd/speed4j/speed4j/0.9/speed4j-0.9-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/hectorclient/hector-object-mapper/3.1-07/hector-object-mapper-3.1-07.jar" sourcepath="M2_REPO/org/hectorclient/hector-object-mapper/3.1-07/hector-object-mapper-3.1-07-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/hectorclient/hector-object-mapper/3.1-07/hector-object-mapper-3.1-07-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/cassandra/cassandra-all/1.1.0/cassandra-all-1.1.0.jar" sourcepath="M2_REPO/org/apache/cassandra/cassandra-all/1.1.0/cassandra-all-1.1.0-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/apache/cassandra/cassandra-all/1.1.0/cassandra-all-1.1.0-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1.jar" sourcepath="M2_REPO/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/ning/compress-lzf/0.8.4/compress-lzf-0.8.4.jar" sourcepath="M2_REPO/com/ning/compress-lzf/0.8.4/compress-lzf-0.8.4-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/com/ning/compress-lzf/0.8.4/compress-lzf-0.8.4-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/commons-cli/commons-cli/1.1/commons-cli-1.1.jar" sourcepath="M2_REPO/commons-cli/commons-cli/1.1/commons-cli-1.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/commons-cli/commons-cli/1.1/commons-cli-1.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/googlecode/concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.2/concurrentlinkedhashmap-lru-1.2.jar" sourcepath="M2_REPO/com/googlecode/concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.2/concurrentlinkedhashmap-lru-1.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/com/googlecode/concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.2/concurrentlinkedhashmap-lru-1.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/antlr/antlr/3.2/antlr-3.2.jar" sourcepath="M2_REPO/org/antlr/antlr/3.2/antlr-3.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/antlr/antlr-runtime/3.2/antlr-runtime-3.2.jar" sourcepath="M2_REPO/org/antlr/antlr-runtime/3.2/antlr-runtime-3.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/antlr/stringtemplate/3.2/stringtemplate-3.2.jar" sourcepath="M2_REPO/org/antlr/stringtemplate/3.2/stringtemplate-3.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/cassandra/deps/avro/1.4.0-cassandra-1/avro-1.4.0-cassandra-1.jar" sourcepath="M2_REPO/org/apache/cassandra/deps/avro/1.4.0-cassandra-1/avro-1.4.0-cassandra-1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/apache/cassandra/deps/avro/1.4.0-cassandra-1/avro-1.4.0-cassandra-1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.4.0/jackson-mapper-asl-1.4.0.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.4.0/jackson-mapper-asl-1.4.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.4.0/jackson-core-asl-1.4.0.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.4.0/jackson-core-asl-1.4.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/mortbay/jetty/jetty/6.1.22/jetty-6.1.22.jar" sourcepath="M2_REPO/org/mortbay/jetty/jetty/6.1.22/jetty-6.1.22-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/mortbay/jetty/jetty-util/6.1.22/jetty-util-6.1.22.jar" sourcepath="M2_REPO/org/mortbay/jetty/jetty-util/6.1.22/jetty-util-6.1.22-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar" sourcepath="M2_REPO/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/jline/jline/0.9.94/jline-0.9.94.jar" sourcepath="M2_REPO/jline/jline/0.9.94/jline-0.9.94-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar" sourcepath="M2_REPO/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/stephenc/high-scale-lib/high-scale-lib/1.1.2/high-scale-lib-1.1.2.jar" sourcepath="M2_REPO/com/github/stephenc/high-scale-lib/high-scale-lib/1.1.2/high-scale-lib-1.1.2-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/com/github/stephenc/high-scale-lib/high-scale-lib/1.1.2/high-scale-lib-1.1.2-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar" sourcepath="M2_REPO/org/yaml/snakeyaml/1.6/snakeyaml-1.6-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/edu/stanford/ppl/snaptree/0.1/snaptree-0.1.jar" sourcepath="M2_REPO/edu/stanford/ppl/snaptree/0.1/snaptree-0.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/edu/stanford/ppl/snaptree/0.1/snaptree-0.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/com/yammer/metrics/metrics-core/2.0.3/metrics-core-2.0.3.jar" sourcepath="M2_REPO/com/yammer/metrics/metrics-core/2.0.3/metrics-core-2.0.3-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/com/yammer/metrics/metrics-core/2.0.3/metrics-core-2.0.3-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar" sourcepath="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar" sourcepath="M2_REPO/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/joda-time/joda-time/1.6.1/joda-time-1.6.1.jar" sourcepath="M2_REPO/joda-time/joda-time/1.6.1/joda-time-1.6.1-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/C:/Documents%20and%20Settings/sanajwala/.m2/repository/joda-time/joda-time/1.6.1/joda-time-1.6.1-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/org/apache/xbean/xbean-finder-shaded/3.11/xbean-finder-shaded-3.11.jar" sourcepath="M2_REPO/org/apache/xbean/xbean-finder-shaded/3.11/xbean-finder-shaded-3.11-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/xbean/xbean-asm-shaded/3.11/xbean-asm-shaded-3.11.jar" sourcepath="M2_REPO/org/apache/xbean/xbean-asm-shaded/3.11/xbean-asm-shaded-3.11-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hibernate/ejb3-persistence/1.0.2.GA/ejb3-persistence-1.0.2.GA.jar"/>
+</classpath>
