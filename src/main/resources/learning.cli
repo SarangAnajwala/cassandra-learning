@@ -1,6 +1,7 @@
 DROP KEYSPACE Learning;
 CREATE KEYSPACE Learning;
 USE Learning;
+
 DROP COLUMN FAMILY RowKeyDate;
 CREATE COLUMN FAMILY RowKeyDate
    WITH key_validation_class = DateType
@@ -10,4 +11,14 @@ CREATE COLUMN FAMILY RowKeyDate
       {column_name:colDate1, validation_class:DateType}
       {column_name:colDate2, validation_class:DateType}
       {column_name:colDate3, validation_class:DateType}
+   ];
+   
+DROP COLUMN FAMILY composite_rk_data;
+CREATE COLUMN FAMILY composite_rk_data
+   WITH comparator = UTF8Type
+   AND key_validation_class = 'CompositeType(UTF8Type, UTF8Type, UTF8Type, UTF8Type)'
+   AND column_metadata = [
+      {column_name:c1, validation_class:UTF8Type}
+      {column_name:c2, validation_class:UTF8Type}
+      {column_name:c3, validation_class:UTF8Type}
    ];

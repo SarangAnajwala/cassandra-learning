@@ -57,14 +57,14 @@ import com.blogspot.oakgreen.cassandra.cassandralearning.domain.RowKeyDate;
  * @author Sarang Anajwala (http://OakGreen.blogspot.com
  * 
  */
-public class RowKeyDateMain extends GenericMain<RowKeyDate> {
+public class RowKeyDateMain extends GenericMain<Date, RowKeyDate> {
 
-	public RowKeyDateMain(Class<RowKeyDate> domainClass) {
-		super(domainClass);
+	public RowKeyDateMain() {
+		super(Date.class, RowKeyDate.class);
 	}
 
 	public static void main(String[] args) {
-		RowKeyDateMain main = new RowKeyDateMain(RowKeyDate.class);
+		RowKeyDateMain main = new RowKeyDateMain();
 		Calendar cal = Calendar.getInstance();
 		Date rkDt = null;
 		Date cDt1 = null;
